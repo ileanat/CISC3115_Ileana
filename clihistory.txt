@@ -1,17 +1,16 @@
-
-   85  cd javacode/javaprogram.java
-   86  cd javacode/javaprogram.class
-   87  cd javacode
-   88  ls
-   89  cd..
+   84  pwd
+   85  cd javaprogram.java
+   86  nano javaprogram.java
+   87  javac javaprogram.java
+   88  java javaprogram.
+   89  java javaprogram
    90  cd ..
-   91  cd ..
-   92  cd CISC3115_Ileana/javacode
-   93  cd..
+   91  pwd
+   92  cd javacode
+   93  cd ..
    94  cd ..
-   95  cd ..
-   96  ls
-   97  cd CISC3115_Ileana
-   98  la
-   99  ls
-  100  touch clihistory.txt
+   95  cd CISC3115_Ileana/javacode
+   96  cd ..
+   97  pwd
+   98  ls
+   99  touch clihistory.txt
